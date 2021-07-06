@@ -15,3 +15,10 @@ Please install python packages listed in the requirements.txt using the standard
   <code>pip install -r ./reqiurements.txt </code><br/>
   c. Run the main file using python.<br/>
   <code>python ./Tic-Tac-Toe.py</code><br/>
+
+### TBD
+
+1. Add music.<br/>
+2. Add animation(a better one) for victory detection. Something like so and so won the game.<br/>
+3. Refactor the code, disrtibute functions into seperate files if needed.<br/>
+4. Rename the end menu, either rename the options or reduce the words.<br/>
